@@ -1,0 +1,41 @@
+
+1. Use grpo to improve performance.
+
+2. Use MOE to improve performance.
+
+3. Use RMSnorm and change activation to swish.
+
+
+GRPO
+
+https://superb-makemake-3a4.notion.site/group-relative-policy-optimization-GRPO-18c41736f0fd806eb39dc35031758885
+
+https://medium.com/yugen-ai-technology-blog/understanding-the-math-behind-grpo-deepseek-r1-zero-9fb15e103a0a
+
+https://github.com/open-thought/tiny-grpo/tree/main
+
+MOE
+
+https://github.com/lucidrains/mixture-of-experts/tree/master
+
+https://medium.com/@bijit211987/mixture-of-experts-moe-scaling-ai-horizons-44de79ba2e89
+
+https://medium.com/autonomous-agents/deepseek-r1-the-moe-fallacy-and-the-true-source-of-emergent-reasoning-cedba23a7788
+
+MOE Gate..
+
+
+Key Value Latent Space
+
+Multi-head Latent Attention (MLA)
+
+https://medium.com/data-science/deepseek-v3-explained-1-multi-head-latent-attention-ed6bee2a67c4
+
+
+Multi-Token Prediction
+
+https://medium.com/@himankvjain/accelerating-language-models-with-multi-token-prediction-9f0167232f5b
+
+Rotation Positional Embedding
+
+https://www.youtube.com/watch?v=GQPOtyITy54
